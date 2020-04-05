@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o  -o 1_8_two_dimensional_array 
