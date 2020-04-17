@@ -57,27 +57,27 @@ include CMakeFiles/1_8_two_dimensional_array.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/1_8_two_dimensional_array.dir/flags.make
 
-CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o: CMakeFiles/1_8_two_dimensional_array.dir/flags.make
-CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o: ../Saper.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alfa/cpp_stepic/1.8 two-dimensional array/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o -c "/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp"
+CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o: CMakeFiles/1_8_two_dimensional_array.dir/flags.make
+CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o: ../11_task.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/alfa/cpp_stepic/1.8 two-dimensional array/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o -c "/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp"
 
-CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp" > CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.i
+CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp" > CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.i
 
-CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp" -o CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.s
+CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp" -o CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.s
 
 # Object files for target 1_8_two_dimensional_array
 1_8_two_dimensional_array_OBJECTS = \
-"CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o"
+"CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o"
 
 # External object files for target 1_8_two_dimensional_array
 1_8_two_dimensional_array_EXTERNAL_OBJECTS =
 
-1_8_two_dimensional_array: CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o
+1_8_two_dimensional_array: CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o
 1_8_two_dimensional_array: CMakeFiles/1_8_two_dimensional_array.dir/build.make
 1_8_two_dimensional_array: CMakeFiles/1_8_two_dimensional_array.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/alfa/cpp_stepic/1.8 two-dimensional array/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 1_8_two_dimensional_array"

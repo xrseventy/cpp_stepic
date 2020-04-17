@@ -123,32 +123,32 @@ depend:
 	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/build
 .PHONY : 1_8_two_dimensional_array/fast
 
-Saper.o: Saper.cpp.o
+11_task.o: 11_task.cpp.o
 
-.PHONY : Saper.o
+.PHONY : 11_task.o
 
 # target to build an object file
-Saper.cpp.o:
-	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o
-.PHONY : Saper.cpp.o
+11_task.cpp.o:
+	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o
+.PHONY : 11_task.cpp.o
 
-Saper.i: Saper.cpp.i
+11_task.i: 11_task.cpp.i
 
-.PHONY : Saper.i
+.PHONY : 11_task.i
 
 # target to preprocess a source file
-Saper.cpp.i:
-	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.i
-.PHONY : Saper.cpp.i
+11_task.cpp.i:
+	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.i
+.PHONY : 11_task.cpp.i
 
-Saper.s: Saper.cpp.s
+11_task.s: 11_task.cpp.s
 
-.PHONY : Saper.s
+.PHONY : 11_task.s
 
 # target to generate assembly for a file
-Saper.cpp.s:
-	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.s
-.PHONY : Saper.cpp.s
+11_task.cpp.s:
+	$(MAKE) -f CMakeFiles/1_8_two_dimensional_array.dir/build.make CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.s
+.PHONY : 11_task.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... 1_8_two_dimensional_array"
 	@echo "... edit_cache"
-	@echo "... Saper.o"
-	@echo "... Saper.i"
-	@echo "... Saper.s"
+	@echo "... 11_task.o"
+	@echo "... 11_task.i"
+	@echo "... 11_task.s"
 .PHONY : help
 
 

@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp
+/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp
 iostream
+-
+iomanip
 -
 

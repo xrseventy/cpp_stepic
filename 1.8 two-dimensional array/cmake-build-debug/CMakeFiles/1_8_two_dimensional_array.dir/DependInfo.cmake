@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp" "/home/alfa/cpp_stepic/1.8 two-dimensional array/cmake-build-debug/CMakeFiles/1_8_two_dimensional_array.dir/Saper.cpp.o"
+  "/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp" "/home/alfa/cpp_stepic/1.8 two-dimensional array/cmake-build-debug/CMakeFiles/1_8_two_dimensional_array.dir/11_task.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

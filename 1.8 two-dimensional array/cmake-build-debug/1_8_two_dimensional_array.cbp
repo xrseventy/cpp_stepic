@@ -84,7 +84,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/alfa/cpp_stepic/1.8 two-dimensional array/Saper.cpp">
+		<Unit filename="/home/alfa/cpp_stepic/1.8 two-dimensional array/11_task.cpp">
 			<Option target="1_8_two_dimensional_array"/>
 		</Unit>
 		<Unit filename="/home/alfa/cpp_stepic/1.8 two-dimensional array/CMakeLists.txt">
